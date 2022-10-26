@@ -1,2 +1,2 @@
-# OOP-HUST
+# OOP.VN.20221.20205047.MaiHoangViet
 Mai Hoàng Việt 20205047
